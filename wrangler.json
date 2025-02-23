@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "divine-grass-8d5d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "80b8531b-5be9-4583-9224-adfbfa01fcce",
+      "database_name": "hidden-king-4824-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
